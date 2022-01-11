@@ -1,5 +1,7 @@
 # AngularKanban
 
+Project from https://www.youtube.com/watch?v=YGCDAXFWAZo&list=PLIjdNHWULhPQ2JUw3SX5mPCmjLGWmXqnu&index=1&ab_channel=Devstackr
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
 
 ## Development server
